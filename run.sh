@@ -37,7 +37,7 @@ function create_vir_env(){
 
 create_vir_env
 
-bash ./cmd_sh/check_code.sh
+#bash ./cmd_sh/check_code.sh
 
 #   source $env_path/py2env/bin/activate
 #   deactivate
